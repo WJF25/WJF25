@@ -5,6 +5,8 @@
 Olá tudo bem? Seja bem-vindo aqui. Me chamo Waldiney e no momento tenho estudado muito para fazer uma boa transição de carreira, saindo da Logística e vindo para o mundo da tecnologia. Já fiz alguns projetos pra estudo, trabalhos em grupo, e alguns tutoriais adicionando algumas features, porém gostaria muito de uma chance para fazer isso profissionalmente, pelo menos é o objetivo do momento smile.
 
 Full stack me atrai bastante.
+<br>
+[![KENZIE](https://img.shields.io/badge/Estudando%20em-Kenzie%20Academy-blue)](https://kenzie.com.br/)
 
 <img style="border-radius: 5px; margin: 0 auto;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /><br><br>
 
@@ -62,10 +64,10 @@ Full stack me atrai bastante.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjf25)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjf25&show_icons=true)<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wjf25&show_icons=true&count_private=true&icon_color=64b000)<br><br>
 
 ![GitHub metrics](https://metrics.lecoq.io/wjf25)<br><br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wjf25)<br><br>
 
-![Profile views](https://gpvc.arturio.dev/wjf25)<br><br>
+
+
