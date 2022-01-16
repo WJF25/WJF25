@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Waldiney
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Olá tudo bem? Seja bem-vindo aqui. Me chamo Waldiney e no momento tenho estudado muito para fazer uma boa transição de carreira, saindo da Logística e vindo para o mundo da tecnologia. Já fiz alguns projetos pra estudo, trabalhos em grupo, e alguns tutoriais adicionando algumas features, porém gostaria muito de uma chance para fazer isso profissionalmente, pelo menos é o objetivo do momento smile.
 
