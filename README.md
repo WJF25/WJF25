@@ -1,4 +1,10 @@
 ### Hi there 👋
+Olá tudo bem? Seja bem-vindo aqui.
+Me chamo Waldiney e no momento tenho estudado muito para fazer uma boa transição de carreira, saindo da Logística e vindo para o mundo da tecnologia. Já fiz alguns projetos pra estudo, trabalhos em grupo, e alguns tutoriais adicionando algumas features, porém gostaria muito de uma chance para fazer isso profissionalmente, pelo menos é o objetivo do momento 😄.
+
+Full stack é muito legal, eu gosto muito!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjf25)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WJF25/WJF25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
