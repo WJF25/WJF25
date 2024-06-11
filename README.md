@@ -6,7 +6,7 @@ Olá tudo bem? Seja bem-vindo aqui. Me chamo Waldiney e no momento tenho estudad
 
 Full stack me atrai bastante.
 <br>
-[![MBA Full Cycle](https://img.shields.io/badge/Estudando%20em-Kenzie%20Academy-blue)](https://mba.fullcycle.com.br/mba/)
+[![MBA Full Cycle](https://img.shields.io/badge/Estudando%20em-MBA%20Full%20Cycle-yellow)](https://mba.fullcycle.com.br/mba/)
 
 <img style="border-radius: 5px; margin: 0 auto;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /><br><br>
 
